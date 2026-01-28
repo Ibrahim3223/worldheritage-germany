@@ -3,7 +3,7 @@ title: "Schwäbisches Krippenmuseum"
 site_name: "Schwäbisches Krippenmuseum"
 date: 2026-01-26
 draft: false
-description: "The Schwäbisches Krippenmuseum in Mindelheim, Germany, is a unique cultural institution dedicated to the art of nativity scenes, or "Krippen." This..."
+description: "The Schwäbisches Krippenmuseum in Mindelheim, Germany, is a unique cultural institution dedicated to the art of nativity scenes, or \"Krippen.\" This..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

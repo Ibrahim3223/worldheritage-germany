@@ -1,0 +1,2 @@
+# Force Git to see content changes
+*.md -text diff
