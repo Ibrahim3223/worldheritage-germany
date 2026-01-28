@@ -15,13 +15,13 @@ wikidata_id: "Q27831280"
 latitude: 50.897636
 longitude: 14.80725
 images:
-  - https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Museum_für_Naturkunde_„Dr._Curt_Heinke".jpg/1200px-Museum_für_Naturkunde_„Dr._Curt_Heinke".jpg
+  - https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Museum_für_Naturkunde_"Dr._Curt_Heinke".jpg/1200px-Museum_für_Naturkunde_"Dr._Curt_Heinke".jpg
 image_srcset:
-  Museum%20für%20Naturkunde%20„Dr.%20Curt%20Heinke".jpg:
-    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Museum_für_Naturkunde_„Dr._Curt_Heinke".jpg/400px-Museum_für_Naturkunde_„Dr._Curt_Heinke".jpg
-    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Museum_für_Naturkunde_„Dr._Curt_Heinke".jpg/800px-Museum_für_Naturkunde_„Dr._Curt_Heinke".jpg
-    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Museum_für_Naturkunde_„Dr._Curt_Heinke".jpg/1200px-Museum_für_Naturkunde_„Dr._Curt_Heinke".jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Museum_für_Naturkunde_„Dr._Curt_Heinke".jpg/1920px-Museum_für_Naturkunde_„Dr._Curt_Heinke".jpg
+  Museum%20für%20Naturkunde%20"Dr.%20Curt%20Heinke".jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Museum_für_Naturkunde_"Dr._Curt_Heinke".jpg/400px-Museum_für_Naturkunde_"Dr._Curt_Heinke".jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Museum_für_Naturkunde_"Dr._Curt_Heinke".jpg/800px-Museum_für_Naturkunde_"Dr._Curt_Heinke".jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Museum_für_Naturkunde_"Dr._Curt_Heinke".jpg/1200px-Museum_für_Naturkunde_"Dr._Curt_Heinke".jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Museum_für_Naturkunde_"Dr._Curt_Heinke".jpg/1920px-Museum_für_Naturkunde_"Dr._Curt_Heinke".jpg
 ---
 
 ## Overview

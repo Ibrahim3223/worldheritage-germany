@@ -3,7 +3,7 @@ title: "Farver Mühle"
 site_name: "Farver Mühle"
 date: 2026-01-26
 draft: false
-description: "Die Windmühle wurde 1828 als Mühle des Gutes Farve als Ersatz für eine Wassermühle errichtet (mit Segelflügeln und „Steert"). In den 1930er Jahren wur"
+description: "Die Windmühle wurde 1828 als Mühle des Gutes Farve als Ersatz für eine Wassermühle errichtet (mit Segelflügeln und "Steert"). In den 1930er Jahren wur"
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Windmill"

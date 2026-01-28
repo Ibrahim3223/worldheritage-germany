@@ -15,13 +15,13 @@ wikidata_id: "Q1244581"
 latitude: 52.5706
 longitude: 13.4086
 images:
-  - https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Berlin_-_Alte_Pfarrkirche_„Zu_den_Vier_Evangelisten".jpg/1200px-Berlin_-_Alte_Pfarrkirche_„Zu_den_Vier_Evangelisten".jpg
+  - https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Berlin_-_Alte_Pfarrkirche_"Zu_den_Vier_Evangelisten".jpg/1200px-Berlin_-_Alte_Pfarrkirche_"Zu_den_Vier_Evangelisten".jpg
 image_srcset:
-  Berlin%20-%20Alte%20Pfarrkirche%20„Zu%20den%20Vier%20Evangelisten".jpg:
-    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Berlin_-_Alte_Pfarrkirche_„Zu_den_Vier_Evangelisten".jpg/400px-Berlin_-_Alte_Pfarrkirche_„Zu_den_Vier_Evangelisten".jpg
-    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Berlin_-_Alte_Pfarrkirche_„Zu_den_Vier_Evangelisten".jpg/800px-Berlin_-_Alte_Pfarrkirche_„Zu_den_Vier_Evangelisten".jpg
-    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Berlin_-_Alte_Pfarrkirche_„Zu_den_Vier_Evangelisten".jpg/1200px-Berlin_-_Alte_Pfarrkirche_„Zu_den_Vier_Evangelisten".jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Berlin_-_Alte_Pfarrkirche_„Zu_den_Vier_Evangelisten".jpg/1920px-Berlin_-_Alte_Pfarrkirche_„Zu_den_Vier_Evangelisten".jpg
+  Berlin%20-%20Alte%20Pfarrkirche%20"Zu%20den%20Vier%20Evangelisten".jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Berlin_-_Alte_Pfarrkirche_"Zu_den_Vier_Evangelisten".jpg/400px-Berlin_-_Alte_Pfarrkirche_"Zu_den_Vier_Evangelisten".jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Berlin_-_Alte_Pfarrkirche_"Zu_den_Vier_Evangelisten".jpg/800px-Berlin_-_Alte_Pfarrkirche_"Zu_den_Vier_Evangelisten".jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Berlin_-_Alte_Pfarrkirche_"Zu_den_Vier_Evangelisten".jpg/1200px-Berlin_-_Alte_Pfarrkirche_"Zu_den_Vier_Evangelisten".jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Berlin_-_Alte_Pfarrkirche_"Zu_den_Vier_Evangelisten".jpg/1920px-Berlin_-_Alte_Pfarrkirche_"Zu_den_Vier_Evangelisten".jpg
 ---
 
 ## Overview

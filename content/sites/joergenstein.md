@@ -20,7 +20,7 @@ images:
 
 ## Overview
 
-Jörgenstein, located in Bochum, Germany, is a significant monument that serves as a poignant reminder of the region's historical and cultural heritage. Positioned within the serene surroundings of the Forst „Weitmarer Holz," this site has attracted visitors seeking to connect with the past while enjoying the tranquility of nature. The monument stands as a focal point for exploration in the area, offering insights into the local history and the natural environment that envelops it. 
+Jörgenstein, located in Bochum, Germany, is a significant monument that serves as a poignant reminder of the region's historical and cultural heritage. Positioned within the serene surroundings of the Forst "Weitmarer Holz," this site has attracted visitors seeking to connect with the past while enjoying the tranquility of nature. The monument stands as a focal point for exploration in the area, offering insights into the local history and the natural environment that envelops it. 
 
 The monument's setting, amidst lush greenery, provides a peaceful escape from the urban bustle of Bochum, inviting both locals and tourists to engage with its significance. Jörgenstein is not just a marker of historical importance; it represents the intertwining of nature and culture in this part of Germany. Visitors can expect a blend of reflection, education, and appreciation of the area's natural beauty.
 
@@ -36,7 +36,7 @@ Visitors to Jörgenstein can appreciate not only the physical structure but also
 
 Jörgenstein is characterized by its straightforward yet evocative architectural design, embodying the essence of a traditional monument. While specific details about its construction are not provided, monuments of its kind typically showcase a blend of local materials and craftsmanship, reflecting the architectural style prevalent in the region at the time of its creation.
 
-The physical features of Jörgenstein are designed to invoke contemplation and respect for the history it represents. Such monuments often include inscriptions or symbolic elements that offer visitors insight into their significance. Visitors can expect to see a structure that harmonizes with its natural surroundings, reinforcing the connection between the monument and the landscape of the Forst „Weitmarer Holz."
+The physical features of Jörgenstein are designed to invoke contemplation and respect for the history it represents. Such monuments often include inscriptions or symbolic elements that offer visitors insight into their significance. Visitors can expect to see a structure that harmonizes with its natural surroundings, reinforcing the connection between the monument and the landscape of the Forst "Weitmarer Holz."
 
 As you approach Jörgenstein, take a moment to admire the details that might not be immediately visible. The site's integration with nature is an essential aspect, creating a serene atmosphere that encourages reflection. Whether you are an architecture enthusiast, a history buff, or simply someone seeking a quiet moment in nature, Jörgenstein offers a unique experience.
 

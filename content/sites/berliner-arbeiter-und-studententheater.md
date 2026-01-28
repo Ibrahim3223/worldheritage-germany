@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-The Berliner Arbeiter- und Studententheater, a prominent theatre building in Berlin, represents a fusion of artistry and educational ambition. As part of the Hochschule für Schauspielkunst „Ernst Busch" Berlin, this studio theatre plays a crucial role in the development of performing arts in Germany, particularly among students and young performers. Located in a vibrant urban setting, the theatre is not only a venue for innovative performances but also a hub for cultural expression and experimentation. 
+The Berliner Arbeiter- und Studententheater, a prominent theatre building in Berlin, represents a fusion of artistry and educational ambition. As part of the Hochschule für Schauspielkunst "Ernst Busch" Berlin, this studio theatre plays a crucial role in the development of performing arts in Germany, particularly among students and young performers. Located in a vibrant urban setting, the theatre is not only a venue for innovative performances but also a hub for cultural expression and experimentation. 
 
 This theatre embodies the spirit of Berlin, a city that has long been at the forefront of artistic movements and social change. With its focus on both worker and student narratives, the Berliner Arbeiter- und Studententheater serves as a platform for voices often underrepresented in mainstream theatre. Visitors can expect a diverse range of productions that challenge conventions and provoke thought, making it a significant stop on any cultural itinerary in Berlin.
 
@@ -36,7 +36,7 @@ The Berliner Arbeiter- und Studententheater is deeply embedded in Berlin's rich 
 
 Throughout its history, the theatre has served as a cultural meeting ground, fostering dialogue between students, artists, and the community. Performances often focus on themes relevant to contemporary society, addressing issues such as social justice, identity, and the intersection of art and activism. By supporting productions that prioritize these themes, the Berliner Arbeiter- und Studententheater has carved a niche for itself within Berlin's diverse cultural landscape.
 
-The theatre also plays a pivotal role in the training of future generations of actors, directors, and playwrights, aligning with the educational mission of the Hochschule für Schauspielkunst „Ernst Busch". This connection to academia ensures a constant influx of fresh ideas and innovative approaches to performance, making the theatre a dynamic space for both creation and exploration.
+The theatre also plays a pivotal role in the training of future generations of actors, directors, and playwrights, aligning with the educational mission of the Hochschule für Schauspielkunst "Ernst Busch". This connection to academia ensures a constant influx of fresh ideas and innovative approaches to performance, making the theatre a dynamic space for both creation and exploration.
 
 ## Architecture and Features
 
@@ -58,7 +58,7 @@ Spending an evening at the theatre typically requires a few hours, allowing ampl
 
 While visiting the Berliner Arbeiter- und Studententheater, consider exploring the following nearby attractions to enhance your experience in Berlin:
 
-1. **Hochschule für Schauspielkunst „Ernst Busch"**: The renowned drama school associated with the theatre, offering a glimpse into the world of actor training and artistic innovation.
+1. **Hochschule für Schauspielkunst "Ernst Busch"**: The renowned drama school associated with the theatre, offering a glimpse into the world of actor training and artistic innovation.
    
 2. **Volkspark Friedrichshain**: A spacious park nearby, perfect for a leisurely stroll or a picnic before or after a performance.
    
