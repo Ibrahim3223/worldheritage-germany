@@ -96,6 +96,34 @@ def generate_slug(title: str) -> str:
     slug = slug.strip('-')
     return slug[:80]
 
+def sanitize_quotes(text: str) -> str:
+    """
+    Replace all fancy quotes with regular ASCII quotes.
+    Prevents YAML parsing errors in Hugo frontmatter.
+
+    This function ensures content from GPT or any source uses only
+    standard quotes that won't break YAML parsers.
+    """
+    # English-style smart quotes
+    text = text.replace('"', '"')  # Left double quote (U+201C)
+    text = text.replace('"', '"')  # Right double quote (U+201D)
+    text = text.replace(''', "'")  # Left single quote (U+2018)
+    text = text.replace(''', "'")  # Right single quote (U+2019)
+
+    # German-style quotes
+    text = text.replace('„', '"')  # Double low-9 quote (U+201E)
+    text = text.replace('‟', '"')  # Double high-reversed-9 quote (U+201F)
+    text = text.replace('‚', "'")  # Single low-9 quote (U+201A)
+    text = text.replace('‛', "'")  # Single high-reversed-9 quote (U+201B)
+
+    # Angle quotes (guillemets)
+    text = text.replace('«', '"')  # Left-pointing double angle quote (U+00AB)
+    text = text.replace('»', '"')  # Right-pointing double angle quote (U+00BB)
+    text = text.replace('‹', "'")  # Single left-pointing angle quote (U+2039)
+    text = text.replace('›', "'")  # Single right-pointing angle quote (U+203A)
+
+    return text
+
 def log(message: str):
     timestamp = time.strftime('%H:%M:%S')
     print(f"[{timestamp}] {message}")
@@ -241,6 +269,10 @@ Start with a compelling opening line."""
 def generate_content(site: dict, client: OpenAI) -> tuple:
     """Generate content for a single site"""
     title = site.get('title', 'Unknown')
+
+    # Sanitize title to prevent YAML parsing errors
+    title = sanitize_quotes(title)
+
     slug = generate_slug(title)
 
     if not slug:
@@ -266,6 +298,9 @@ def generate_content(site: dict, client: OpenAI) -> tuple:
 
         response_text = response.choices[0].message.content
 
+        # Sanitize all quotes from GPT response to prevent YAML parsing errors
+        response_text = sanitize_quotes(response_text)
+
         # Extract SEO description from first line (if GPT followed instructions)
         # Format: Description on first line, blank line, then content
         lines = response_text.split('\n', 2)
@@ -287,7 +322,8 @@ def generate_content(site: dict, client: OpenAI) -> tuple:
             else:
                 description = site.get('description', '')[:150]
 
-        # Clean description
+        # Sanitize and clean description
+        description = sanitize_quotes(description)
         description = description.replace('"', '\\"').strip()
         if not description.endswith(('.', '!', '?', '...')):
             description += '.'
