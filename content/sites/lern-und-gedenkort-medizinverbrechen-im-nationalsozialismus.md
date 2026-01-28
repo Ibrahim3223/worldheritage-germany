@@ -1,9 +1,9 @@
 ---
-title: "Lern- und Gedenkort "Medizinverbrechen im Nationalsozialismus""
-site_name: "Lern- und Gedenkort "Medizinverbrechen im Nationalsozialismus""
+title: "Lern- und Gedenkort \"Medizinverbrechen im Nationalsozialismus\""
+site_name: "Lern- und Gedenkort \"Medizinverbrechen im Nationalsozialismus\""
 date: 2026-01-26
 draft: false
-description: "The Lern- und Gedenkort "Medizinverbrechen im Nationalsozialismus" serves as a poignant memorial and educational site dedicated to the medical crimes..."
+description: "The Lern- und Gedenkort \"Medizinverbrechen im Nationalsozialismus\" serves as a poignant memorial and educational site dedicated to the medical crimes..."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Museum"

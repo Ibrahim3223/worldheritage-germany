@@ -1,97 +1,83 @@
 """
-Fix YAML quotes in description fields
-Replace unescaped quotes inside description values
+Fix unescaped quotes in YAML frontmatter
+When we replaced German quotes with regular quotes, we didn't escape them for YAML
 """
 
-import re
 from pathlib import Path
+import re
 
 BASE_DIR = Path(__file__).parent.parent
 CONTENT_DIR = BASE_DIR / 'content' / 'sites'
 
-FILES_TO_FIX = [
-    '2000-jahre-christentum.md',
-    'chronos-und-die-trauernde.md',
-    'der-gescheiterte-varus.md',
-    'fallturm-bremen.md',
-    'gedenkstaette-museum-in-der-runden-ecke.md',
-    'helm-ab-zum-gebet.md',
-    'juratrockenhang-mit-der-felsgruppe-zwoelf-apostel.md',
-    'luegenmuseum.md',
-    'maerchenbrunnen-wuppertal.md',
-    'munich-fair-tower.md',
-    'nubian-woman.md',
-    'phonomuseum-alte-schule.md',
-    'rakotzbruecke.md',
-    'schloss-nordkirchen.md',
-    'the-sower.md',
-]
-
-def fix_description_quotes(content: str) -> str:
-    """Fix quotes in description field"""
-
+def fix_yaml_quotes(content: str) -> tuple[str, bool]:
+    """Fix unescaped quotes in YAML frontmatter"""
     lines = content.split('\n')
-    fixed_lines = []
+    modified = False
 
-    for line in lines:
-        # Check if this is a description line
-        if line.strip().startswith('description:'):
-            # Extract the description value
-            match = re.match(r'(\s*description:\s*)"(.+)"', line)
-            if match:
-                prefix = match.group(1)
-                desc_value = match.group(2)
+    # Process only frontmatter (between first two ---)
+    in_frontmatter = False
+    frontmatter_end = -1
 
-                # Escape any unescaped quotes in the value
-                # Replace " with \" but preserve already escaped ones
-                fixed_value = desc_value.replace('\\', '\\\\').replace('"', '\\"')
-
-                fixed_line = f'{prefix}"{fixed_value}"'
-                fixed_lines.append(fixed_line)
-                print(f"  Fixed description line")
+    for i, line in enumerate(lines):
+        if line.strip() == '---':
+            if not in_frontmatter:
+                in_frontmatter = True
             else:
-                fixed_lines.append(line)
-        else:
-            fixed_lines.append(line)
+                frontmatter_end = i
+                break
 
-    return '\n'.join(fixed_lines)
+    if frontmatter_end == -1:
+        return content, False
+
+    # Fix quotes in frontmatter lines
+    for i in range(1, frontmatter_end):
+        line = lines[i]
+
+        # Match YAML fields: key: "value"
+        match = re.match(r'^(\w+): "(.+)"$', line)
+        if match:
+            key, value = match.groups()
+
+            # Check if value has unescaped quotes
+            if '"' in value and '\\"' not in value:
+                # Escape inner quotes
+                escaped_value = value.replace('"', '\\"')
+                lines[i] = f'{key}: "{escaped_value}"'
+                modified = True
+                print(f"  Fixed {key}: {value[:50]}...")
+
+    return '\n'.join(lines), modified
 
 def main():
-    print("="*80)
-    print("FIX YAML QUOTES IN DESCRIPTIONS")
-    print("="*80)
+    print("=" * 80)
+    print("FIX YAML QUOTES - Escape inner quotes in frontmatter")
+    print("=" * 80)
+    print()
+
+    files = sorted(CONTENT_DIR.glob('*.md'))
+    print(f"Total files: {len(files)}")
     print()
 
     fixed = 0
 
-    for filename in FILES_TO_FIX:
-        file_path = CONTENT_DIR / filename
-
-        if not file_path.exists():
-            print(f"SKIP: {filename} (not found)")
-            continue
-
-        print(f"Processing: {filename}")
-
+    for file_path in files:
         try:
-            # Read file
             with open(file_path, 'r', encoding='utf-8') as f:
                 content = f.read()
 
-            # Fix quotes
-            fixed_content = fix_description_quotes(content)
+            new_content, modified = fix_yaml_quotes(content)
 
-            # Write back
-            with open(file_path, 'w', encoding='utf-8', newline='\n') as f:
-                f.write(fixed_content)
-
-            fixed += 1
+            if modified:
+                with open(file_path, 'w', encoding='utf-8', newline='\n') as f:
+                    f.write(new_content)
+                print(f"[OK] {file_path.name}")
+                fixed += 1
 
         except Exception as e:
-            print(f"  ERROR: {e}")
+            print(f"[ERROR] {file_path.name}: {e}")
 
     print()
-    print(f"Fixed: {fixed}/{len(FILES_TO_FIX)}")
+    print(f"Fixed: {fixed}/{len(files)}")
     print()
     print("DONE!")
 

@@ -3,7 +3,7 @@ title: "Alte Pathologie Wehnen"
 site_name: "Alte Pathologie Wehnen"
 date: 2026-01-26
 draft: false
-description: "Gedenk- und Dokumentationsstätte für Opfer der "Euthanasie" im nationalsozialistischen Deutschland"
+description: "Gedenk- und Dokumentationsstätte für Opfer der \"Euthanasie\" im nationalsozialistischen Deutschland"
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Memorial"

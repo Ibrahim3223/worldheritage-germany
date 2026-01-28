@@ -1,9 +1,9 @@
 ---
-title: "Museumsdruckerei Hoya "Zwiebelfisch""
-site_name: "Museumsdruckerei Hoya "Zwiebelfisch""
+title: "Museumsdruckerei Hoya \"Zwiebelfisch\""
+site_name: "Museumsdruckerei Hoya \"Zwiebelfisch\""
 date: 2026-01-26
 draft: false
-description: "The Museumsdruckerei Hoya "Zwiebelfisch" invites visitors into the fascinating world of printmaking, a craft that has shaped communication and culture for..."
+description: "The Museumsdruckerei Hoya \"Zwiebelfisch\" invites visitors into the fascinating world of printmaking, a craft that has shaped communication and culture for..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

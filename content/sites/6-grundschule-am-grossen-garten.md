@@ -1,9 +1,9 @@
 ---
-title: "6. Grundschule "Am Großen Garten""
-site_name: "6. Grundschule "Am Großen Garten""
+title: "6. Grundschule \"Am Großen Garten\""
+site_name: "6. Grundschule \"Am Großen Garten\""
 date: 2026-01-26
 draft: false
-description: "The 6. Grundschule "Am Großen Garten" stands as a significant educational institution in Dresden, Germany, embodying the principles of early childhood..."
+description: "The 6. Grundschule \"Am Großen Garten\" stands as a significant educational institution in Dresden, Germany, embodying the principles of early childhood..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "School Building"

@@ -3,7 +3,7 @@ title: "Kugelbrunnen (Albert Sous)"
 site_name: "Kugelbrunnen (Albert Sous)"
 date: 2026-01-26
 draft: false
-description: "In the heart of Aachen, Germany, the Kugelbrunnen, or "Ball Fountain," presents an intriguing blend of art and engineering."
+description: "In the heart of Aachen, Germany, the Kugelbrunnen, or \"Ball Fountain,\" presents an intriguing blend of art and engineering."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Fountain"
